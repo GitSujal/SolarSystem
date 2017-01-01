@@ -16,5 +16,5 @@ Use  r to start revolution.
 Use c to start rotation.
 
 ## Limitation
-Textures folder has not been uploaded due to it's size. **Poor Internet Connection** :sad: :s
+Textures folder has not been uploaded due to it's size. **Poor Internet Connection** :cry: :cry:
 If anyone is intrested please feel free to contact and I can provide dropbox link to the textures.
